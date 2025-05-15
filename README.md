@@ -2,7 +2,7 @@ Terraform
 ---------
 <br>
 
-"terraform/<br>
+terraform/<br>
 ├── environments/<br>
 │   ├── dev/<br>
 │   │   ├── main.tf<br>
@@ -26,4 +26,4 @@ Terraform
     └── network/<br>
         ├── main.tf<br>
         ├── outputs.tf<br>
-        └── variables.tf"
+        └── variables.tf
